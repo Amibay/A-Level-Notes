@@ -7,7 +7,7 @@
         "id": "16b67cf3d452f3fc",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -84,9 +84,9 @@
   },
   "active": "16b67cf3d452f3fc",
   "lastOpenFiles": [
+    "Chapter 14 Applications of differentiation.md",
     "Section 1 Tangents and normals de03a70274e34f9289abf21584b882c9.md",
     "Section 2 Stationary points b3ee52a75c904802a53d8c171bfdd658.md",
-    "Chapter 14 Applications of differentiation.md",
     "Untitled.md"
   ]
 }
