@@ -7,8 +7,11 @@
         "id": "16b67cf3d452f3fc",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,9 +88,9 @@
   },
   "active": "16b67cf3d452f3fc",
   "lastOpenFiles": [
+    "Untitled.md",
     "Chapter 14 Applications of differentiation.md",
     "Section 1 Tangents and normals de03a70274e34f9289abf21584b882c9.md",
-    "Section 2 Stationary points b3ee52a75c904802a53d8c171bfdd658.md",
-    "Untitled.md"
+    "Section 2 Stationary points b3ee52a75c904802a53d8c171bfdd658.md"
   ]
 }
