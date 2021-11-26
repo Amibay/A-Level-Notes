@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Applications of differentiation.md",
+            "file": "Chapter 14 Applications of differentiation.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Applications of differentiation.md",
+                "file": "Chapter 14 Applications of differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "16b67cf3d452f3fc",
   "lastOpenFiles": [
-    "Applications of differentiation.md",
+    "Chapter 14 Applications of differentiation.md",
     "Untitled.md"
   ]
 }
