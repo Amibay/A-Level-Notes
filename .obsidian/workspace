@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathematics/Chapter 3/Untitled 1.md",
+            "file": "Mathematics/Chapter 2/Untitled.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Chapter 3/Untitled 1.md",
+                "file": "Mathematics/Chapter 2/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "16b67cf3d452f3fc",
   "lastOpenFiles": [
-    "Mathematics/Chapter 3/Untitled 1.md",
     "Mathematics/Chapter 2/Untitled.md",
+    "Mathematics/Chapter 3/Untitled 1.md",
     "Mathematics/Chapter 2/Untitled 1.md",
     "Untitled.md",
     "Chapter 14 Applications of differentiation.md",
