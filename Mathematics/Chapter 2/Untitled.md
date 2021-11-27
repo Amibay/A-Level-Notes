@@ -1,5 +1,3 @@
-<img src="https://v1.nitrocdn.com/kDXDIJNDOaszRbpagqNqUtquAQQkiLpO/assets/static/optimized/rev-86a1fec/wp-content/uploads/2020/06/2.1.1-List-of-index-laws.png" alt="List of index laws, A Level &amp; AS Level Pure Maths Revision Notes"/>
-
-<img src="blob:chrome-untrusted://media-app/8b85f054-78a2-47a1-82d6-5c83aeacf232" alt="00001.png"/>
-
-![](Pasted%20image%2020211127120706.png)
+Laws of indices (or index laws – ‘index’ is the singular, ‘indices’ is the plural) allow you to simplify and manipulate expressions involving powers
+The index laws you need to know and use are summarised here
+[Imgur](https://i.imgur.com/951ewXr.png)
