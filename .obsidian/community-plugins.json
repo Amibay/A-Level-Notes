@@ -1,3 +1,19 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-activity-history",
+  "table-editor-obsidian",
+  "better-pdf-plugin",
+  "calendar",
+  "obsidian-citation-plugin",
+  "convert-url-to-iframe",
+  "copy-url-in-preview",
+  "obsidian-discordrpc",
+  "extract-url",
+  "obsidian-export-to-tex",
+  "graph-analysis",
+  "obsidian-html-tags-autocomplete",
+  "obsidian-latex-environments",
+  "obsidian-local-images",
+  "obsidian-vault-statistics-plugin",
+  "wikilinks-to-mdlinks-obsidian"
 ]

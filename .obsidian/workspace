@@ -78,6 +78,22 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "72dbd02d328218ca",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "917bb324774fc1d8",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
         ]
       }
