@@ -7,11 +7,16 @@
         "id": "16b67cf3d452f3fc",
         "type": "leaf",
         "state": {
+<<<<<<< Updated upstream
+          "type": "empty",
+          "state": {}
+=======
           "type": "markdown",
           "state": {
-            "file": "Section 1 Tangents and normals 634ff69df7384bbca230ea4f426a2552/7.2.1-Grad-Tang-Norm-Illustr-1.png.md",
-            "mode": "source"
+            "file": "Mathematics/Chapter 2/Section 2 - Manipulating surds.md",
+            "mode": "preview"
           }
+>>>>>>> Stashed changes
         }
       }
     ],
@@ -68,13 +73,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section 1 Tangents and normals 634ff69df7384bbca230ea4f426a2552/7.2.1-Grad-Tang-Norm-Illustr-1.png.md",
+<<<<<<< Updated upstream
+=======
+                "file": "Mathematics/Chapter 2/Section 2 - Manipulating surds.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -95,7 +103,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -104,14 +113,15 @@
   },
   "active": "16b67cf3d452f3fc",
   "lastOpenFiles": [
+    "Mathematics/Chapter 2/Section 2 - Manipulating surds.md",
+    "Wiki articles/Irrational numbers.md",
+    "Mathematics/Chapter 2/Section 1 - Laws of Indices.md",
+    "Untitled.md",
+    "Section 1 Tangents and normals 634ff69df7384bbca230ea4f426a2552/7.2.1-Grad-Tang-Norm-Illustr-3.png.md",
+    "Mathematics/Chapter 2/Untitled 2.md",
+    "Mathematics/Chapter 2/Untitled 1.md",
     "Section 1 Tangents and normals 634ff69df7384bbca230ea4f426a2552/7.2.1-Grad-Tang-Norm-Illustr-1.png.md",
     "Mathematics/Section 1 Tangents and normals 634ff69df7384bbca230ea4f426a2552.md",
-    "Mathematics/Chapter 2/Untitled.md",
-    "Mathematics/Chapter 2/Untitled 1.md",
-    "Mathematics/Chapter 3/Untitled 1.md",
-    "Untitled.md",
-    "Chapter 14 Applications of differentiation.md",
-    "Section 1 Tangents and normals de03a70274e34f9289abf21584b882c9.md",
-    "Section 2 Stationary points b3ee52a75c904802a53d8c171bfdd658.md"
+    "Mathematics/Chapter 3/Untitled 1.md"
   ]
 }
